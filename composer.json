@@ -49,5 +49,11 @@
         "allow-plugins": {
             "kylekatarnls/update-helper": false
         }
+    },
+    "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:it-can/bugsnag-php.git"
     }
+  ],
 }
